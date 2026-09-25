@@ -1,0 +1,6 @@
+{
+  "name": "Elampillai Deva Sarees",
+  "description": "Artisanal handloom saree atelier featuring Kanchipuram silk, soft silk, and bridal heirlooms directly from Elampillai master weavers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
